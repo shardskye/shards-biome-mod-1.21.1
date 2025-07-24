@@ -1,5 +1,6 @@
 {
   "item.shardsbiomemod.cotton": "Cotton",
+  "item.shardsbiomemod.cotton_seeds": "Cotton Seeds",
   "item.shardsbiomemod.dragon_fruit": "Dragon Fruit",
 
   "block.shardsbiomemod.chestnut_planks": "Chestnut Planks",
@@ -11,6 +12,13 @@
   "block.shardsbiomemod.chestnut_slab": "Chestnut Slab",
   "block.shardsbiomemod.chestnut_stairs": "Chestnut Stairs",
   "block.shardsbiomemod.chestnut_fence": "Chestnut Fence",
+  "block.shardsbiomemod.chestnut_fence_gate": "Chestnut Fence Gate",
+  "block.shardsbiomemod.chestnut_door": "Chestnut Door",
+  "block.shardsbiomemod.chestnut_trapdoor": "Chestnut Trapdoor",
+  "block.shardsbiomemod.chestnut_pressure_plate": "Chestnut Pressure Plate",
+  "block.shardsbiomemod.chestnut_button": "Chestnut Button",
+  "block.shardsbiomemod.chestnut_sapling": "Chestnut Sapling",
+  "block.shardsbiomemod.cotton_crop": "Chestnut Crop",
 
   "itemgroup.shardsbiomemod.shards_biome_mod_items": "Shard's Biome Mod"
 }

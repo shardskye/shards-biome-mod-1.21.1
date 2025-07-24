@@ -21,12 +21,19 @@ public class ModItemGroups {
                         entries.add(ModBlocks.CHESTNUT_WOOD);
                         entries.add(ModBlocks.STRIPPED_CHESTNUT_WOOD);
                         entries.add(ModBlocks.CHESTNUT_LEAVES);
+                        entries.add(ModBlocks.CHESTNUT_SAPLING);
                         entries.add(ModBlocks.CHESTNUT_PLANKS);
                         entries.add(ModBlocks.CHESTNUT_STAIRS);
                         entries.add(ModBlocks.CHESTNUT_SLAB);
                         entries.add(ModBlocks.CHESTNUT_FENCE);
+                        entries.add(ModBlocks.CHESTNUT_FENCE_GATE);
+                        entries.add(ModBlocks.CHESTNUT_DOOR);
+                        entries.add(ModBlocks.CHESTNUT_TRAPDOOR);
+                        entries.add(ModBlocks.CHESTNUT_PRESSURE_PLATE);
+                        entries.add(ModBlocks.CHESTNUT_BUTTON);
                         entries.add(ModItems.DRAGON_FRUIT);
                         entries.add(ModItems.COTTON);
+                        entries.add(ModItems.COTTON_SEEDS);
                     }).build());
 
 

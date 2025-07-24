@@ -9,7 +9,7 @@
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/shardskye/shards-biome-mod-1.21.1"
 	},
 	"license": "MIT",
 	"icon": "assets/shardsbiomemod/icon.png",
@@ -23,14 +23,21 @@
 		],
 		"client": [
 			"net.shardskye.shardsbiomemod.ShardsBiomeModClient"
+		],
+		"terrablender": [
+			"net.shardskye.shardsbiomemod.world.biome.ModTerrablenderAPI"
 		]
 	},
 	"mixins": [
 		"shardsbiomemod.mixins.json"
 	],
 	"depends": {
+		"terrablender": ">=4.1.0.8",
 		"fabricloader": ">=0.16.14",
-		"minecraft": "~1.21.1",
+		"minecraft": [
+			"1.21",
+			"1.21.1"
+		],
 		"java": ">=21",
 		"fabric-api": "*"
 	},
